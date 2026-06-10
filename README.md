@@ -31,19 +31,19 @@ O modelo **Llama 3.2 3B**, executado localmente via **Ollama**, recebe a cada ci
 
 **Cenário 1 — Operação Normal**
 
-![Operação Normal](assets/print_normal.png)
+![Operação Normal](./print_normal.png)
 
 **Cenário 2 — Flutuação Detectada (Atenção)**
 
-![Atenção](assets/print_atencao.png)
+![Atenção](./print_atencao.png)
 
 **Cenário 3 — Energia em Queda (Atenção)**
 
-![Energia em queda](assets/print_energia.png)
+![Energia em queda](./print_energia.png)
 
 **Cenário 4 — Alerta Crítico / Falha Crítica**
 
-![Alerta Crítico](assets/print_critico.png)
+![Alerta Crítico](./print_critico.png)
 
 ---
 

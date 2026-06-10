@@ -31,19 +31,19 @@ O modelo **Llama 3.2 3B**, executado localmente via **Ollama**, recebe a cada ci
 
 **Cenário 1 — Operação Normal**
 
-![Operação Normal](./print_normal.png)
+![Operação Normal](./print_normal.PNG)
 
 **Cenário 2 — Flutuação Detectada (Atenção)**
 
-![Atenção](./print_atencao.png)
+![Atenção](./print_atencao.PNG)
 
 **Cenário 3 — Energia em Queda (Atenção)**
 
-![Energia em queda](./print_energia.png)
+![Energia em queda](./print_energia.PNG)
 
 **Cenário 4 — Alerta Crítico / Falha Crítica**
 
-![Alerta Crítico](./print_critico.png)
+![Alerta Crítico](./print_critico.PNG)
 
 ---
 
@@ -113,7 +113,7 @@ O código está organizado em três partes bem definidas:
 mission-control-ai/
 ├── mission_control_ai.ipynb   # Notebook principal
 ├── README.md                  # Este arquivo
-└── assets/                    # Prints do sistema funcionando
+└──                            # Prints do sistema funcionando
     ├── print_normal.png
     ├── print_atencao.png
     ├── print_energia.png

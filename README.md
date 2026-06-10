@@ -103,7 +103,7 @@ O código está organizado em três partes bem definidas:
 
 ## Vídeo de Demonstração
 
-[▶️ Assistir ao vídeo]([https://link-do-video.com](https://youtu.be/1_mmYwqbTrc))
+[▶️ Assistir ao vídeo](https://youtu.be/1_mmYwqbTrc)
 
 ---
 
